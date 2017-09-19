@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Ignore java because there are 15G of java raw data in the directory
+*.java
+
 # C extensions
 *.so
 
